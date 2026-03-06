@@ -1007,7 +1007,7 @@ footer { background:var(--navy); border-top:1px solid rgba(201,168,76,0.1); padd
         <div class="c-list">
           <div class="c-row rv">
             <div class="c-ico">📧</div>
-            <div><div class="c-lbl">Email</div><div class="c-val"><a href="mailto:sattarahmed@example.com">sattarahmed@example.com</a></div></div>
+            <div><div class="c-lbl">Email</div><div class="c-val"><a href="mailto:sattarahmedofficial1@gmail.com">sattarahmed@example.com</a></div></div>
           </div>
           <div class="c-row rv">
             <div class="c-ico">📱</div>
